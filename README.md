@@ -2,7 +2,7 @@
 
                                                      # RAKSHA
 
-# ( using supervised machine-learning algorithms to guess the covid-19 test result by analyzing
+## ( using supervised machine-learning algorithms to guess the covid-19 test result by analyzing
 # symptoms )
 
 
