@@ -19,13 +19,13 @@ In this project, we are planning to build a model using supervised machine learn
 
 -> The following set of columns are allotted to me for data collection from mexican  health 
      website. 
-      - Smoking : ( Numeric value indicating the seriousness )
-      - Other Cause: ( Numeric value indicating the seriousness )
-      - Result: ( Numeric value indicating the seriousness )
-      - Migrant:  ( Numeric value indicating the seriousness )
-      - Country Nationality: ( String  value indicating the country )
-      - Country Origin : ( String indicating the origin of country )
-      - ICU :  ( String  value indicating the country )
+      - Smoking : ( Numeric value indicating the seriousness ).
+      - Other Cause: ( Numeric value indicating the seriousness ).
+      - Result: ( Numeric value indicating the seriousness ).
+      - Migrant:  ( Numeric value indicating the seriousness ).
+      - Country Nationality: ( String  value indicating the country ).
+      - Country Origin : ( String indicating the origin of country ).
+      - ICU :  ( String  value indicating the country ).
 -> I have implemented formatting on the following above set of columns.
 -> Since our project is based on the supervised learning algorithms, I have started learning the following machine learning algorithms : 
      - Nearest Neighbor
