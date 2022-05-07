@@ -1,8 +1,8 @@
-                   # SP22: CMPE-255 SEC 02 - CMPE 255 DATA MINING
+                   #SP22: CMPE-255 SEC 02 - CMPE 255 DATA MINING
                                        
-                                 # INDIVIDUAL PROJECT CHECK-IN-2
+                                 #INDIVIDUAL PROJECT CHECK-IN-2
 
-                                                     # RAKSHA
+                                                     #RAKSHA
 
 ## ( using supervised machine-learning algorithms to guess the covid-19 test result by analyzing
 ## symptoms )
